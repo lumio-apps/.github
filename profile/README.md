@@ -42,9 +42,8 @@ Most apps today want your data, your attention and your internet connection. We 
 
 ### 🚧 In the works
 
-- 🗂️ Files Manager
-- ⌨️ Keyboard
-- 🎵 Music Player (offline)
+- 🫀 **Human Body Atlas**: explore the human body in an interactive, fully offline atlas
+- 🌿 **Digital Wellbeing**: build healthier screen habits, with everything staying on your device
 
 More privacy-first apps are on the way.
 
