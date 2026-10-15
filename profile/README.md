@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lumio-apps/.github/main/profile/logo.png" alt="Lumio Apps logo" width="160" />
-
-# Lumio Apps
+<img src="https://raw.githubusercontent.com/lumio-apps/.github/main/profile/logo.png" alt="Lumio Apps logo" width="420" />
 
 **Private by design. Simple by choice.**
 
