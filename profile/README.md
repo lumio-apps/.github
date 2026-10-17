@@ -43,7 +43,7 @@ Most apps today want your data, your attention and your internet connection. We 
 ### 🚧 In the works
 
 - 🫀 **Human Body Atlas**: explore the human body in an interactive, fully offline atlas
-- 🌿 **Digital Wellbeing**: build healthier screen habits, with everything staying on your device
+- 🌿 **Stillo**: a digital wellbeing app for healthier screen habits, with everything staying on your device
 
 More privacy-first apps are on the way.
 
@@ -51,10 +51,13 @@ More privacy-first apps are on the way.
 
 ## Get the apps
 
-- **Google Play**: our apps are being published one by one.
-- **GitHub Releases**: download signed APKs from each app's **Releases** page.
+Our apps are distributed **only through GitHub**. There is no Play Store account and no middleman between you and the code.
 
-Every release is built from the public source code in this organization.
+1. Open the app's repository from the table above.
+2. Go to **Releases** and download the latest signed `.apk`.
+3. Install it on your Android phone.
+
+Every release is built from the public source code in this organization, and the apps can check GitHub for updates themselves.
 
 ---
 
