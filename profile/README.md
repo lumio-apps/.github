@@ -40,11 +40,6 @@ Most apps today want your data, your attention and your internet connection. We 
 
 > Find screenshots, details and privacy policies for every app on **[lumio-apps.online](https://lumio-apps.online)**.
 
-### 🚧 In the works
-
-- 🫀 **Human Body Atlas**: explore the human body in an interactive, fully offline atlas
-- 🌿 **Stillo**: a digital wellbeing app for healthier screen habits, with everything staying on your device
-
 More privacy-first apps are on the way.
 
 ---
