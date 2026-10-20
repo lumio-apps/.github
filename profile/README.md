@@ -4,7 +4,7 @@
 
 **Private by design. Simple by choice.**
 
-Open-source apps that respect you: no ads, no tracking, no data collection.
+Open-source apps and games that respect you: no ads, no tracking, no data collection.
 
 [![Website](https://img.shields.io/badge/Website-lumio--apps.online-2DD4BF?style=for-the-badge)](https://lumio-apps.online)
 [![Open Source](https://img.shields.io/badge/Open%20Source-100%25-3B82F6?style=for-the-badge)](https://github.com/lumio-apps)
@@ -29,7 +29,7 @@ Most apps today want your data, your attention and your internet connection. We 
 
 ---
 
-## Our apps
+## Our apps and games
 
 | App | What it does | Platform |
 |---|---|---|
@@ -37,10 +37,11 @@ Most apps today want your data, your attention and your internet connection. We 
 | 💰 [**PocketTally**](https://github.com/lumio-apps/pockettally) | An offline daily income and expense tracker. Available in many languages, with no wallets, no accounts and no cloud. | Android |
 | 📄 [**Paperwise**](https://github.com/lumio-apps/paperwise) | Offline PDF tools: merge, split, compress and convert images to PDF. Your documents never leave your phone. | Android |
 | 🛂 [**Stamply – Visa Checker**](https://github.com/lumio-apps/stamply) | Check visa and passport requirements. Data is bundled in the app, with an optional manual data update and no login. | Android |
+| 🎮 [**Pow2**](https://github.com/lumio-apps/pow2) | A simple, addictive swipe-and-merge number puzzle. Endless play, themes, sound and vibration options, and stats. Fully offline, no ads. | Android |
 
 > Find screenshots, details and privacy policies for every app on **[lumio-apps.online](https://lumio-apps.online)**.
 
-More privacy-first apps are on the way.
+More privacy-first apps and games are on the way.
 
 ---
 
