@@ -38,6 +38,7 @@ Most apps today want your data, your attention and your internet connection. We 
 | 📄 [**Paperwise**](https://github.com/lumio-apps/paperwise) | Offline PDF tools: merge, split, compress and convert images to PDF. Your documents never leave your phone. | Android |
 | 🛂 [**Stamply – Visa Checker**](https://github.com/lumio-apps/stamply) | Check visa and passport requirements. Data is bundled in the app, with an optional manual data update and no login. | Android |
 | 🎮 [**Pow2**](https://github.com/lumio-apps/pow2) | A simple, addictive swipe-and-merge number puzzle. Endless play, themes, sound and vibration options, and stats. Fully offline, no ads. | Android |
+| 🧩 [**Cuboo**](https://github.com/lumio-apps/cuboo) | A relaxing block puzzle: place shapes, clear lines and beat your best score. Light and dark mode, smooth animations, scores and achievements saved on your device. Fully offline, no ads. | Android |
 
 > Find screenshots, details and privacy policies for every app on **[lumio-apps.online](https://lumio-apps.online)**.
 
