@@ -44,8 +44,9 @@ Most apps today want your data, your attention and your internet connection. We 
 
 | App | What it does | Platform |
 |---|---|---|
-| 🫀 [**Anatomo**](https://github.com/lumio-apps/anatomo) | An interactive human body atlas. Explore male and female models, tap any part to see what it does and what helps or harms it, and test yourself with quizzes. Many languages, dark and light mode. | Android, Windows |
+| 🫀 [**Anatomo**](https://github.com/lumio-apps/anatomo) | An interactive human body atlas. Explore male and female models, tap any part to see what it does and what helps or harms it, and test yourself with quizzes. Many languages, dark and light mode. | Android |
 | 😴 [**Somno**](https://github.com/lumio-apps/somno) | An offline sleep tracker with no wearable needed. It detects sleep from phone inactivity, sets a goal for your age, and tracks streaks, consistency and naps. | Android |
+| 🪐 [**Heliora**](https://github.com/lumio-apps/heliora) | An offline solar system explorer. Browse every planet with its atmosphere and key facts, in a 2D or 3D view. Many languages, light mode. | Android |
 
 ### ✈️ Travel
 
@@ -74,7 +75,7 @@ Our apps are distributed **only through GitHub**. There is no Play Store account
 
 1. Open the app's repository from the table above.
 2. Go to **Releases** and download the latest signed `.apk`.
-3. Install it on your Android phone (or run the Windows build, where an app offers one).
+3. Install it on your Android phone.
 
 Every release is built from the public source code in this organization, and the apps can check GitHub for updates themselves.
 
