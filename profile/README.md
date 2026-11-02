@@ -48,6 +48,19 @@ Most apps today want your data, your attention and your internet connection. We 
 | 😴 [**Somno**](https://github.com/lumio-apps/somno) | An offline sleep tracker with no wearable needed. It detects sleep from phone inactivity, sets a goal for your age, and tracks streaks, consistency and naps. | Android |
 | 🪐 [**Heliora**](https://github.com/lumio-apps/heliora) | An offline solar system explorer. Browse every planet with its atmosphere and key facts, in a 2D or 3D view. Many languages, light mode. | Android |
 
+### 🔐 Privacy and security
+
+| App | What it does | Platform |
+|---|---|---|
+| 🛡️ [**Peekless**](https://github.com/lumio-apps/peekless) | An offline app privacy auditor. Scans your installed apps for permissions and trackers and gives each one a privacy score. | Android |
+| 📸 [**Lockeye**](https://github.com/lumio-apps/lockeye) | An intruder-selfie lock. Takes a photo when a wrong password is entered, even on your phone's own lock screen. Separate passwords for you and your family. | Android |
+
+### 💼 Work
+
+| App | What it does | Platform |
+|---|---|---|
+| 🧾 [**Muster**](https://github.com/lumio-apps/muster) | Attendance and salary software for companies. Mark daily worker attendance, keep salary records and export PDF and Excel reports. Many currencies supported. | Windows |
+
 ### ✈️ Travel
 
 | App | What it does | Platform |
@@ -61,7 +74,7 @@ Most apps today want your data, your attention and your internet connection. We 
 | 🎯 [**Pow2**](https://github.com/lumio-apps/pow2) | A simple, addictive swipe-and-merge number puzzle. Endless play, themes, sound and vibration options, and stats. | Android |
 | 🧩 [**Cuboo**](https://github.com/lumio-apps/cuboo) | A relaxing block puzzle: place shapes, clear lines and beat your best score. Light and dark mode, smooth animations, scores and achievements saved on your device. | Android |
 
-Every app and game is free, ad-free and open source, and works offline. Internet is used only for things you choose, like downloading a language pack or checking GitHub for updates.
+Every app and game is free, ad-free and open source, and works offline. Internet is used only for things you choose, like downloading a language pack, checking GitHub for updates or optional live space data.
 
 > Find screenshots, details and privacy policies for every app on **[lumio-apps.online](https://lumio-apps.online)**.
 
@@ -74,8 +87,8 @@ More privacy-first apps and games are on the way.
 Our apps are distributed **only through GitHub**. There is no Play Store account and no middleman between you and the code.
 
 1. Open the app's repository from the table above.
-2. Go to **Releases** and download the latest signed `.apk`.
-3. Install it on your Android phone.
+2. Go to **Releases** and download the latest build: a signed `.apk` for Android, or the installer for Windows apps.
+3. Install it and you're done.
 
 Every release is built from the public source code in this organization, and the apps can check GitHub for updates themselves.
 
@@ -105,7 +118,15 @@ Please keep the spirit of the project in mind: **no ads, no trackers, no data co
 
 ## Built with
 
-Apps are built with [Flutter](https://flutter.dev) and Dart.
+Our apps are built with [Flutter](https://flutter.dev) and Dart.
+
+## License
+
+All Lumio Apps projects are released under the **GNU GPL v3.0**. See the `LICENSE` file in each repository.
+
+The app names and logos are not covered by the license.
+
+Copyright (C) 2026 Lumio Apps
 
 ---
 
